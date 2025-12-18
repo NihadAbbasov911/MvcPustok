@@ -38,9 +38,55 @@ namespace MVCClassTask.Controllers
                 Icon = "fas fa-headset"
             }
         };
-            HomeVM homeVM = new HomeVM 
+            List<Product> products = new List<Product>
+            {
+                new Product
                 {
-                Features = features};
+                    Name = "Beats Solo3 Wireless",
+                    Author = "Apple",
+                    ImageUrl = "product-1.jpg",
+                    Price = 120,
+                    OldPrice=150,
+                    Discount=20
+                },
+                new Product
+                {
+                    Name = "iPad Retina Display",
+                    Author = "Apple",
+                    ImageUrl = "product-2.jpg",
+                    Price = 980,
+                    OldPrice=1350,
+                    Discount=15
+                },
+                new Product
+                {
+                    Name = "Headphone EP",
+                    Author = "Beats",
+                    ImageUrl = "product-3.jpg",
+                    Price = 89,
+                    OldPrice=150,
+                    Discount=25
+                },
+                new Product
+                {
+                    Name = "Wireless Speaker",
+                    Author = "JBL",
+                    ImageUrl = "product-4.jpg",
+                    Price = 150,
+                    OldPrice=200,
+                    Discount=30
+                }
+
+        };
+
+
+        HomeVM homeVM = new HomeVM 
+                {
+                Features = features,
+                Products = products
+
+        };
+                
 
 
 

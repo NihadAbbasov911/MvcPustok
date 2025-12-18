@@ -6,5 +6,6 @@ namespace MVCClassTask.ViewModels
     public class HomeVM
     {
         public List<Feature> Features { get; set; }
+        public List<Product> Products { get; set; }
     }
 }
