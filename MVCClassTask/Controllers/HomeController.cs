@@ -57,6 +57,7 @@ namespace MVCClassTask.Controllers
                     Price = 980,
                     OldPrice=1350,
                     Discount=15
+
                 },
                 new Product
                 {

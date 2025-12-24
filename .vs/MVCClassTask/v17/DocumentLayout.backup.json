@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +59,8 @@
       "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\mvcclasstask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\mvcclasstask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,20 +75,12 @@
       "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -73,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|c:\\users\\user\\desktop\\apa201\\mvcclasstask\\mvcclasstask\\mvcclasstask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{303C2419-E6B5-409D-91AD-8DA77ACC7726}|MVCClassTask\\MVCClassTask.csproj|solutionrelative:mvcclasstask\\mvcclasstask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,11 +114,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCClassTask\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MVCClassTask\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwI0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T11:36:40.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVCClassTask\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVCClassTask\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:36:04.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCClassTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCClassTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T11:31:18.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MVCClassTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MVCClassTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwLABAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T11:19:33.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCClassTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCClassTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAUwFsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T11:18:41.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCClassTask\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCClassTask\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:17:14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MVCClassTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MVCClassTask\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-24T11:10:53.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MVCClassTask\\Models\\Product.cs",
@@ -102,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "MVCClassTask\\ViewModels\\HomeVM.cs",
@@ -114,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Feature.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Models\\Feature.cs",
               "RelativeDocumentMoniker": "MVCClassTask\\Models\\Feature.cs",
@@ -126,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\appsettings.json",
               "RelativeDocumentMoniker": "MVCClassTask\\appsettings.json",
@@ -138,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Views\\Shared\\_Layout.cshtml.cs",
               "RelativeDocumentMoniker": "MVCClassTask\\Views\\Shared\\_Layout.cshtml.cs",
@@ -150,19 +269,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Program.cs",
               "RelativeDocumentMoniker": "MVCClassTask\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Program.cs",
               "RelativeToolTip": "MVCClassTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:19:15.925Z"
+              "WhenOpened": "2025-12-17T11:19:15.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCClassTask\\Views\\Shop\\Index.cshtml",
@@ -174,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCClassTask\\Views\\Product\\Index.cshtml",
@@ -186,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Views\\Auth\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCClassTask\\Views\\Auth\\Index.cshtml",
@@ -198,20 +318,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCClassTask\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MVCClassTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAAAL4AAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYDAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-17T11:05:30.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCClassTask\\Views\\Blog\\Index.cshtml",
@@ -223,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MVCClassTask\\Views\\_ViewStart.cshtml",
@@ -231,11 +351,12 @@
               "RelativeToolTip": "MVCClassTask\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T10:50:00.612Z"
+              "WhenOpened": "2025-12-17T10:50:00.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCClassTask\\Views\\Shared\\_Layout.cshtml",
@@ -247,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "MVCClassTask\\Controllers\\BlogController.cs",
@@ -259,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MVCClassTask\\Controllers\\AuthController.cs",
@@ -271,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "MVCClassTask\\Controllers\\ShopController.cs",
@@ -283,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MVCClassTask\\Controllers\\ProductController.cs",
@@ -295,19 +416,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCClassTask\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVCClassTask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwDoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T10:19:15.528Z"
+              "WhenOpened": "2025-12-17T10:19:15.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "MVCClassTask.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCClassTask\\MVCClassTask\\MVCClassTask.csproj",
               "RelativeDocumentMoniker": "MVCClassTask\\MVCClassTask.csproj",
