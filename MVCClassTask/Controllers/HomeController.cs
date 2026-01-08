@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MVCClassTask.DAL;
 using MVCClassTask.Models;
 using MVCClassTask.ViewModels;
 
@@ -6,6 +7,11 @@ namespace MVCClassTask.Controllers
 {
     public class HomeController:Controller
     {
+        public readonly AppDbContext _context;
+        public HomeController(AppDbContext context)
+        {
+            _context = context;
+        }
         public IActionResult Index()
         {
             List<Feature> features = new List<Feature>        {
@@ -80,8 +86,9 @@ namespace MVCClassTask.Controllers
 
         };
 
-
-        HomeVM homeVM = new HomeVM 
+            _context.Products.AddRange(products);
+            _context.SaveChanges();
+            HomeVM homeVM = new HomeVM 
                 {
                 Features = features,
                 Products = products
