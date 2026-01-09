@@ -11,7 +11,7 @@ namespace MVCClassTask.DAL
         }
 
         public DbSet<Category> Categories { get; set; }
-        public DbSet<Product> Products { get; set; }
+        public DbSet<Product> Product { get; set; }
     }
 }
 

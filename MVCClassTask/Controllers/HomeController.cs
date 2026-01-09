@@ -53,7 +53,8 @@ namespace MVCClassTask.Controllers
                     ImageUrl = "product-1.jpg",
                     Price = 120,
                     OldPrice=150,
-                    Discount=20
+                    Discount=20,
+                    CategoryID = 1
                 },
                 new Product
                 {
@@ -62,7 +63,8 @@ namespace MVCClassTask.Controllers
                     ImageUrl = "product-2.jpg",
                     Price = 980,
                     OldPrice=1350,
-                    Discount=15
+                    Discount=15,
+                    CategoryID = 1
 
                 },
                 new Product
@@ -72,7 +74,8 @@ namespace MVCClassTask.Controllers
                     ImageUrl = "product-3.jpg",
                     Price = 89,
                     OldPrice=150,
-                    Discount=25
+                    Discount=25,
+                    CategoryID = 1
                 },
                 new Product
                 {
@@ -81,13 +84,15 @@ namespace MVCClassTask.Controllers
                     ImageUrl = "product-4.jpg",
                     Price = 150,
                     OldPrice=200,
-                    Discount=30
+                    Discount=30,
+                    CategoryID = 1
                 }
 
         };
 
-            _context.Products.AddRange(products);
-            _context.SaveChanges();
+            //_context.Product.AddRange(products);
+            //_context.SaveChanges();
+            products=_context.Product.ToList();
             HomeVM homeVM = new HomeVM 
                 {
                 Features = features,

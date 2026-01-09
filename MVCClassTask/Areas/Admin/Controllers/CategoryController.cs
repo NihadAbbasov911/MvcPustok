@@ -26,16 +26,27 @@ namespace MVCClassTask.Areas.Admin.Controllers
         {
             List<Category> categories = _context.Categories.ToList();
             return View(categories);
+            ;
         }
         public IActionResult Detail(int? id)
         {
-            var category = _context.Categories.Find(id);
-            if (category == null)
+            if (id == null) return BadRequest();
+
+            var category = _context.Categories
+                                   .Include(c => c.Products) 
+                                   .FirstOrDefault(c => c.Id == id);
+
+            if (category == null) return NotFound();
+
+            var vm = new CategoryWithProductVM
             {
-                return NotFound();
-            }
-            ;
-            return View(category);
+                Id = category.Id,
+                Name = category.Name,
+                Image = category.Image,
+                Products = category.Products ?? new List<Product>()
+            };
+
+            return View(vm);
         }
         public async Task<ActionResult> Create(CreateCategoryVM createCategoryVM)
         {

@@ -1,0 +1,78 @@
+﻿@using MVCClassTask.Areas.Admin.ViewModels.Product
+@model UpdateProductVM
+
+<div class="container py-5">
+    <div class="card shadow border-0 rounded-4">
+        <div class="card-header bg-dark text-white">
+            <h4 class="mb-0">Update Product</h4>
+        </div>
+
+        <div class="card-body">
+            <form asp-action="Update" asp-route-id="@ViewData["id"]" method="post" enctype="multipart/form-data">
+                @Html.AntiForgeryToken()
+
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <label class="form-label">Name</label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label">Author</label>
+                        <input asp-for="Author" class="form-control" />
+                        <span asp-validation-for="Author" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label">Price</label>
+                        <input asp-for="Price" type="number" step="0.01" class="form-control" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label">Old Price</label>
+                        <input asp-for="OldPrice" type="number" step="0.01" class="form-control" />
+                        <span asp-validation-for="OldPrice" class="text-danger"></span>
+
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label">Discount (%)</label>
+                        <input asp-for="Discount" type="number" class="form-control" />
+                        <span asp-validation-for="Discount" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label">Category</label>
+                        <select asp-for="CategoryId" class="form-select" asp-items="@(new SelectList(Model.Categories, "Id", "Name"))">
+                            <option value="">Choose category</option>
+                        </select>
+                        <span asp-validation-for="CategoryId" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label">Current Image</label><br />
+                        @if (ViewData["CurrentImage"] != null)
+                        {
+                            <img src="~/assets/images/products/@ViewData["CurrentImage"]" alt="Product Image" width="100" />
+                        }
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label">Change Image (optional)</label>
+                        <input asp-for="Image" type="file" class="form-control" />
+                        <span asp-validation-for="Image" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="mt-4">
+                    <button type="submit" class="btn btn-success">Update</button>
+                    <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
